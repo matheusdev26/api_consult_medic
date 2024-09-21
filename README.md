@@ -11,7 +11,7 @@ Crie um ambiente virtual:
 - python -m venv venv
 
 Instale as dependências:
-pip install Flask
+- pip install Flask
 
 Para rodar a aplicação, utilize o comando:
 python app.py
